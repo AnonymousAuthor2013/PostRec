@@ -1,0 +1,1 @@
+nohup python manage.py runserver 0:10808 > ../../../logs/web-alpha.log &

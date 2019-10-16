@@ -1,0 +1,14 @@
+.idea
+*.pyc
+.ipynb_checkpoints
+.pytest_cache
+programmingalpha.egg-info
+data
+dist
+build
+*.log
+*.out
+dataCases
+libs/python_libs
+.vscode
+logs

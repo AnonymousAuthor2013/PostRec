@@ -1,0 +1,17 @@
+{
+  "ServiceName":"Know Alpha",
+  "port": 12302,
+  "listen_ip": "127.0.0.1",
+  "cors": "*",
+  "num_workers":20,
+  "top_K":5,
+  "question_len":180,
+  "answers":3,
+  "post_len":329,
+  "max_seq_len":512,
+  "cls_last":false,
+  "tokenizer":"bert",
+  "model": "bert",
+  "model_path":"/home/zhangzy/ShareModels/bert/base-uncased",
+  "model_config_file": "knowNetModel.json"
+}

@@ -1,0 +1,17 @@
+numpy
+sumy
+sumeval
+textblob
+bert-serving-server
+bert-serving-client
+scikit-learn
+flask_json
+flask_cors
+flask_compress
+tornado
+pyentrp
+spacy
+configargparse
+torchtext==0.4.0
+elasticsearch==5.5.3
+torch==1.1.0

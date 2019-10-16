@@ -1,0 +1,11 @@
+{
+    "batch_size":8,
+    "max_seq_len":512,
+    "cased": false,
+    "fp16":false,
+    "name": "bert",
+    "worker_num":10,
+    "verbose":0,
+    "dict_path":"/home/zhangzy/ProjectModels/knowNets/bertEnc/model.bin",
+    "use_gpu":true
+}
